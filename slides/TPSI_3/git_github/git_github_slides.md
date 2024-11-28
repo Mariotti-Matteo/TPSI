@@ -605,7 +605,7 @@ Esercitazione_05: Configurazione di Git
 ```bash
 # git config --global user.name 'Cognome-Nome' #configura nome utente
 
-# git config --global user.email cognome.nome@istitutoagnelli.it # configura email
+# git config --global user.email nome.cognome@istitutoagnelli.it # configura email
 
 # git config --global credential.helper store  # al primo inserimento memorizza il PAT per usi futuri
 ```
