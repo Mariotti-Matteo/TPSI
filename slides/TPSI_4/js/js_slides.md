@@ -6542,7 +6542,7 @@ Materiale Aggiuntivo
 - [Array 04](/support/4/js/pdf/js_array_04.pdf)
 - [Array 05](/support/4/js/pdf/js_array_05.pdf)
 - [Array 06](/support/4/js/pdf/js_array_06.pdf)
-- [Array 01](/support/4/js/pdf/js_array_07.pdf)
+- [Array 07](/support/4/js/pdf/js_array_07.pdf)
 - [Spread Operator](/support/4/js/pdf/js_spread.pdf)
 
 </div>
